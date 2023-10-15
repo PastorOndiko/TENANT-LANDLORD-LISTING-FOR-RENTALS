@@ -1,0 +1,10 @@
+[10-Oct-2023 09:46:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'approval_status' in 'field list' in /home/luckygat/app/process_payment.php:13
+Stack trace:
+#0 /home/luckygat/app/process_payment.php(13): PDOStatement->execute()
+#1 {main}
+  thrown in /home/luckygat/app/process_payment.php on line 13
+[11-Oct-2023 07:01:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/luckygat/app/bookrental.php on line 15
+[11-Oct-2023 07:01:16 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/luckygat/app/bookrental.php on line 15
+[11-Oct-2023 07:01:22 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/luckygat/app/bookrental.php on line 15
+[11-Oct-2023 07:03:02 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/luckygat/app/bookrental.php on line 15
+[11-Oct-2023 07:03:08 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/luckygat/app/bookrental.php on line 15
